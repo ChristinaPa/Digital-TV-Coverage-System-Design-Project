@@ -7,3 +7,5 @@ The topic includes:
 2. The selection and design of the radio coverage of the transponders, which may be required
 3. The design of radio links between studios and transmitters / transponders
 4. The choice of equipment (antennas, transmitters, etc.)
+
+The report is in Greek.
